@@ -1,6 +1,7 @@
 # tcp-optimization
-a script to optimize your TCP traffic
-This script was taken from https://github.com/nkeonkeo/shs, from tools.sh.
+a script to optimize your TCP traffic \n
+
+This script was taken from https://github.com/nkeonkeo/shs, from tools.sh. Credits to @nkeonkeo!
 
 The only difference is that this script is now (in this repo) translated to english.
 Enjoy!
